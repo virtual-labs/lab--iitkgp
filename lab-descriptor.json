@@ -11,7 +11,64 @@
     "collegeName": "IITKGP",
     "baseUrl": "",
     "introduction": "Mechanism and Robotics are the two vital and broader area of study and research within Mechanical Engineering. Mechanisms are used in variety of fixed motion generation applications in Engineering, where as Robots are used in applications where programmable motion is required. This Laboratory provides a primary exposure to design and control of such motion control applications in various applications. Ranging from 2D planar mechanisms to that of spatial mechanism design a set of experiments are offered concerning position, velocity and acceleration synthesis and analysis for basic motions. So within this lab, we will study about some open and closed chain mechanism as well as simulation of some industrial robots.",
-    "experiments": [],
+    "experiments": [
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
     "targetAudience": {
         "UG": ["Students of Instrumentation and Control Engineering, Mechatronics, Mechanical Engineering branches."],
         "PG": ["Students of Process Instrumentation, Mechatronics, and Mechanical (Design)."]
