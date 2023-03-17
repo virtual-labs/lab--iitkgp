@@ -13,58 +13,58 @@
     "introduction": "Mechanism and Robotics are the two vital and broader area of study and research within Mechanical Engineering. Mechanisms are used in variety of fixed motion generation applications in Engineering, where as Robots are used in applications where programmable motion is required. This Laboratory provides a primary exposure to design and control of such motion control applications in various applications. Ranging from 2D planar mechanisms to that of spatial mechanism design a set of experiments are offered concerning position, velocity and acceleration synthesis and analysis for basic motions. So within this lab, we will study about some open and closed chain mechanism as well as simulation of some industrial robots.",
     "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Movemaster",
+      "short-name": "movemaster",
+      "repo": "https://github.com/virtual-labs/exp-movemaster-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Forward Kinematics of PUMA 560",
+      "short-name": "forward-kinematics",
+      "repo": "https://github.com/virtual-labs/exp-forward-kinematics-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Inverse Kinematics of PUMA 560",
+      "short-name": "inverse-kinematics",
+      "repo": "https://github.com/virtual-labs/exp-inverse-kinematics-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "KGP 50",
+      "short-name": "kgp",
+      "repo": "https://github.com/virtual-labs/exp-kgp-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Oldham Coupling Mechanism",
+      "short-name": "oldham-coupling-mechanism",
+      "repo": "https://github.com/virtual-labs/exp-oldham-coupling-mechanism-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "A quick return mechanism",
+      "short-name": "quick-return-mechanism",
+      "repo": "https://github.com/virtual-labs/exp-quick-return-mechanism-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "CAM follower mechanism",
+      "short-name": "cam-follower-mechanism",
+      "repo": "https://github.com/virtual-labs/exp-cam-follower-mechanism-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Robot Teaching Using VAL Programming",
+      "short-name": "val-programming",
+      "repo": "https://github.com/virtual-labs/exp-val-programming-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     }
