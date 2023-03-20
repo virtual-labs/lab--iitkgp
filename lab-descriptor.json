@@ -73,9 +73,9 @@
         "UG": ["Students of Instrumentation and Control Engineering, Mechatronics, Mechanical Engineering branches."],
         "PG": ["Students of Process Instrumentation, Mechatronics, and Mechanical (Design)."]
     },
-    "objective": "",
+    "objective": "We will study about some open and closed chain mechanism as well as simulation of some industrial robots.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The lab contents are chosen such that it covers the syllabi of the Mechanisams and Robotics course's of various universities.",
+        "universities": ["IIT Kharagpur"]
     }
 }
