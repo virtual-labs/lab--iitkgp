@@ -16,7 +16,7 @@
       "name": "Movemaster",
       "short-name": "movemaster",
       "repo": "https://github.com/virtual-labs/exp-movemaster-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
